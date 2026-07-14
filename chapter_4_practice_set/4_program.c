@@ -1,0 +1,1 @@
+// yes we can use one type of loop can also be done using another type of loop
